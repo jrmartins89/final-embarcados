@@ -17,7 +17,7 @@ Firstly, you should install
 
 ## Download
 
-You can download the folder on my [GitHub](https://github.com/jrmartins89/) or you can do this directly on [this link](https://github.com/samaronybarros/movies-app).
+You can download the folder on my [GitHub](https://github.com/jrmartins89/) or you can do this directly on [this link](https://github.com/jrmartins89/final-embarcados.git).
 
 If you have git installed on your PC, you just need do as follow:
 
