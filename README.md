@@ -1,4 +1,4 @@
-# arudino-app
+# ardudino-app
 
 # Introduction
 
